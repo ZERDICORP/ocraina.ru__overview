@@ -1,4 +1,4 @@
-# [ocraina.ru](https://ocraina.ru/_)
+# [ocraina.ru](https://ocraina.ru/)
 
 <kbd><img src="https://github.com/ZERDICORP/ocraina.ru-overview/blob/main/screenshots/s1.png?row=true" alt="screenshot"></kbd>
 
