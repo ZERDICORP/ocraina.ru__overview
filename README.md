@@ -1,4 +1,4 @@
-# [ocraina.ru](https://ocraina.ru/)
+# ocraina.ru
 #### Website for the Author of Poetry.
 
 ## Overview :crystal_ball:
