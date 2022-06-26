@@ -1,7 +1,7 @@
-# ocraina.ru
+# ocraina.ru 🪶 :scroll:
 #### Website for the Author of Poetry.
 
-## Overview :crystal_ball:
+## Overview :eyes:
 
 <kbd><img src="https://user-images.githubusercontent.com/56264511/175811890-8ee35c70-2236-4f5c-a11d-cc57c45444fe.png" alt="screenshot"></kbd>
 
